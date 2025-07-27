@@ -24,4 +24,4 @@ This repo contains multiple SQL case studies and analysis projects designed to i
 ## 🔗 How to Use
 1. Clone this repo  
    ```bash
-   git clone https://github.com/your-username/sql-projects.git
+   git clone [https://github.com/your-username/sql-projects.git](https://github.com/asadimam030/sql-case-studies/tree/main)
