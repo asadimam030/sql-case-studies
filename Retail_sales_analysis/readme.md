@@ -74,4 +74,4 @@ The project is built around a single main table:
 ## 🚀 **How to Use**
 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/retail-sales-analysis.git
+https://github.com/asadimam030/sql-case-studies/tree/main/Retail_sales_analysis
