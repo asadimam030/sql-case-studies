@@ -2,10 +2,10 @@
 # 🍕 Pizza Sales Analysis  
 **SQL Case Study**  
 
-**Author:** Your Name  
-**Email:** your.email@example.com  
-**GitHub:** https://github.com/your-username  
-**LinkedIn:** https://www.linkedin.com/in/your-linkedin  
+**Author:** Md. As ad imam
+**Email:** asadimam030@gmail.com
+**GitHub:** https://github.com/asadimam030
+
 
 ---
 
@@ -64,5 +64,5 @@ This project answers several business questions, such as:
 
 1️⃣ Clone this repository:  
 ```bash
-git clone https://github.com/your-username/pizza-sales-analysis.git
-cd pizza-sales-analysis
+git clone [https://github.com/asadimam030/pizza-sales-analysis.git]
+
