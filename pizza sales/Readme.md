@@ -2,9 +2,9 @@
 # 🍕 Pizza Sales Analysis  
 **SQL Case Study**  
 
-**Author:** Md. As ad imam
-**Email:** asadimam030@gmail.com
-**GitHub:** https://github.com/asadimam030
+**Author:** Md. As ad imam <br>
+**Email:** asadimam030@gmail.com <br>
+**GitHub:** https://github.com/asadimam030 <br>
 
 
 ---
