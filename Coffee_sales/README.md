@@ -1,5 +1,6 @@
 # Coffee Sales SQL Project
 
+<img width="1024" height="1024" alt="cofee_dashboard" src="https://github.com/user-attachments/assets/c87061d3-f347-4907-a96b-3fa083da15e5" />
 
 
 ## Objective
