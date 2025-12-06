@@ -6,7 +6,7 @@
 The objective of this project is to analyze Zepto’s product dataset to uncover insights related to pricing efficiency, discount patterns, stock availability, and category performance. This analysis aims to help optimize inventory planning, identify best-value products, detect pricing inconsistencies, understand stock shortages, and evaluate revenue potential across categories. By examining product attributes such as MRP, discounts, weight, availability, and stock status, this project supports data-driven decision-making for improving profitability, demand forecasting, and operational efficiency.
 
 ## Key Questions
-**Q1. Top 10 Best-Value Products (Highest Discount Percentage).**
+**Q1. Top 10 Best-Value Products (Highest Discount Percentage).**<br>
 Identify the products offering the highest discount percentage and return the top 10 best-value deals.
 
 **Q2. Products With High MRP but Out of Stock**
