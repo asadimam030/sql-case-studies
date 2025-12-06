@@ -3,7 +3,7 @@
 ![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
 
 ## Objective
-The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
+The objective of this project is to evaluate the company’s sales, customer distribution, city demographics, and product performance to identify the three most promising Indian cities for expansion. This analysis aims to guide strategic decision-making by comparing actual sales performance with estimated market size and identifying high-value regions with strong growth potential. create the slide for this 
 
 ## Key Questions
 1. **Coffee Consumers Count**  
