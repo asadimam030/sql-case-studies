@@ -1,6 +1,6 @@
-# Monday Coffee Expansion SQL Project
+# Coffee Sales SQL Project
 
-![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
+
 
 ## Objective
 The objective of this project is to evaluate the company’s sales, customer distribution, city demographics, and product performance to identify the three most promising Indian cities for expansion. This analysis aims to guide strategic decision-making by comparing actual sales performance with estimated market size and identifying high-value regions with strong growth potential. create the slide for this 
